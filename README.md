@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Error404CZ
+- Nothing special
 
 <!---
 Error404CZ/Error404CZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
